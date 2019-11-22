@@ -5,7 +5,7 @@ function getUserAction(e) {
     console.log(e);
     console.log(this);
     container.innerHTML = count++;
-    return 'reuurn'
+    return 'return'
 };
 //第一版
 /* function debiunce(fn,wait=1000){
